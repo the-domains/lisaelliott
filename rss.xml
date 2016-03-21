@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[lisaelliott]]></title>
         <description><![CDATA[lisaelliott]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lisaelliott/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 23:30:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 23:30:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lisaelliott/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Doing Paris like a local]]></title>
+            <description><![CDATA[<article><h1>Doing Paris like a local</h1><p>Before Airbnb became popular, there was a service I used in Paris and still use to this day: ParisAutrement.com. They rent apartments exclusively in the Marais area of Paris (3rd and 4th arrondissements) and I've never had a bad experience with them.</p></article>]]></description>
+            <link>https://thegrid.ai/lisaelliott/doing-paris-like-a-local/index.html</link>
+            <guid isPermaLink="false">bd182ed8-c270-45ec-9c2b-4cf2f56e5a4c</guid>
+            <pubDate>Mon, 21 Mar 2016 23:30:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beyond the Arctic Circle]]></title>
             <description><![CDATA[<article><h1>Beyond the Arctic Circle</h1><p>It was Nunavut Day in Canada this past week, the anniversary of when the Parliament of Canada passed the Nunavut act and established the territory of Nunavut.</p></article>]]></description>
-            <link>undefinedbeyond-the-arctic-circle/index.html</link>
+            <link>https://thegrid.ai/lisaelliott/beyond-the-arctic-circle/index.html</link>
             <guid isPermaLink="false">4d430448-1dcc-4557-876e-ea384a158fbf</guid>
             <pubDate>Mon, 21 Mar 2016 23:30:40 GMT</pubDate>
         </item>
