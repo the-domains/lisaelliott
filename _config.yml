@@ -14,12 +14,12 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.008960574
-  brandStrength: 0.6326165
+  brandStrength: 1
   lightness: 0.9677419
   brandColors:
-    - '#DEEADA'
-    - '#4B3943'
-    - '#A39177'
+    - '#201E1F'
+    - '#C7C6C4'
+    - '#9C9B99'
   rhythmicContrast: 0.2580645
 cta:
   bucket: null
