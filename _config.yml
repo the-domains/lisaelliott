@@ -1,29 +1,41 @@
-name: lisaelliott
-favicon: null
-layout_spectrum: 0.47954
-typography_spectrum: 0.60463
 title: Lisa Elliott
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.008960574
+  brandStrength: 0.6917562
+  lightness: 0.9677419
   brandColors:
     - '#104a3e'
     - '#df7f19'
     - '#e0d03f'
     - '#7cbc28'
     - '#538429'
-  brandStrength: 1
-  lightness: 0.748212062753737
-  saturation: 0.22644065716303885
-  rhythmicContrast: 0.9267973881214857
-purpose: []
+  rhythmicContrast: 0.2580645
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: lisaelliott
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.60463
+layout_spectrum: 0.9749104
