@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.008960574
-  brandStrength: 0.6917562
+  brandStrength: 0.3781362
   lightness: 0.9677419
   brandColors:
-    - '#104a3e'
-    - '#df7f19'
-    - '#e0d03f'
-    - '#7cbc28'
-    - '#538429'
+    - '#2F281F'
+    - '#C6D6E1'
+    - '#5C5C5C'
+    - '#919BA3'
+    - '#881726'
   rhythmicContrast: 0.2580645
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: lisaelliott
+favicon: null
 opengraph:
   image: null
   type: null
