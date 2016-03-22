@@ -17,11 +17,10 @@ color:
   brandStrength: 0.3781362
   lightness: 0.9677419
   brandColors:
-    - '#2F281F'
-    - '#C6D6E1'
-    - '#5C5C5C'
-    - '#919BA3'
-    - '#881726'
+    - '#9A9B9A'
+    - '#DFE1E0'
+    - '#FFE9A3'
+    - '#BE8746'
   rhythmicContrast: 0.2580645
 cta:
   bucket: null
@@ -31,8 +30,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: lisaelliott
 favicon: null
+name: lisaelliott
 opengraph:
   image: null
   type: null
